@@ -1,37 +1,38 @@
-## 中国好声音
+<doctype html>
+<html>
+	<head>
 
-You can use the [editor on GitHub](https://github.com/yinshaohui/yinshaohui.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### 洗衣服
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# 扫地
-## 浏览
-### 玩耍
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yinshaohui/yinshaohui.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+		<meta charset="utf-8">
+ 		<title>网页表格制作</title>
+	</head>
+	<body>
+	 	<table border="1" cellpadding="50px" cellspacing="5px">
+			<caption>成绩管理表</caption>
+ 			<tr>
+				<th>姓名</th>
+				<th>科目</th>
+				<th>成绩</th>
+			</tr>
+			<tr>
+				<td>小米</td>
+				<td>数学</td>
+				<td>56</td>
+			</tr>
+			<tr>
+				<td>唐僧</td>
+				<td>语文</td>
+				<td>100</td>
+			</tr>
+			<tr>
+				<td>沙僧</td>
+				<td>英语</td>
+				<td>45</td>
+			</tr>
+		</table>
+	<form action="https://www.baidu.com/" method="POST">
+		姓名：<input name="userName"><br>
+		密码：<input name="password"><br>
+                <button>提交</button>
+	</form>
+	</body>
+</html>
