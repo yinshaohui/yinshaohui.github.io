@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 中国好声音
 
 You can use the [editor on GitHub](https://github.com/yinshaohui/yinshaohui.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
